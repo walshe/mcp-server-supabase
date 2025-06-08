@@ -22,7 +22,7 @@ This project demonstrates how to use the [Model Context Protocol (MCP)](https://
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/mcp-server-supabase.git
+   git clone https://github.com/walshe/mcp-server-supabase.git
    cd mcp-server-supabase
    ```
 
